@@ -1,1 +1,1 @@
-# QUICK EDITOR for AIMP
+# QUICK EDITOR for AIMP v.3.0.0
